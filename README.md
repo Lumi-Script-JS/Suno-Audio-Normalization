@@ -12,9 +12,7 @@ A professional, web-based audio normalization tool designed to help you easily a
 - **Modern UI:** Built with React, Tailwind CSS, and Radix UI primitives for a sleek and responsive user experience.
 
 ## Deploy
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Lumi-Script-JS/Suno-Audio-Normalization/)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Lumi-Script-JS/Suno-Audio-Normalization)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Lumi-Script-JS/Suno-Audio-Normalization/) [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Lumi-Script-JS/Suno-Audio-Normalization)
 
 ## Usage
 
