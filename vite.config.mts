@@ -6,6 +6,9 @@ import { cloudflare } from "@cloudflare/vite-plugin";
 
 export default defineConfig({
   plugins: [tailwindcss(), react(), tsconfigPaths(), cloudflare()],
+  resolve: {
+    tsconfigPaths: true,
+  },
   server: {
     headers: {
       "Cross-Origin-Embedder-Policy": "require-corp",
